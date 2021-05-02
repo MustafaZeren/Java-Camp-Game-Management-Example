@@ -1,6 +1,6 @@
 package javacampgamemanagement;
 
-public class GameOperations implements Operation{
+public class GameOperations implements BaseOperation {
 
     private Player player;
     private Campaign[] campaigns;
